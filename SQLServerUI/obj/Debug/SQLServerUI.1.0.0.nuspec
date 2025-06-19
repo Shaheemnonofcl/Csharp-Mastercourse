@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SQLServerUI</id>
+    <version>1.0.0</version>
+    <authors>SQLServerUI</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="9.0.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\shahe\source\repos\RelationalDBSolution\SQLServerUI\bin\Debug\net6.0\SQLServerUI.runtimeconfig.json" target="lib\net6.0\SQLServerUI.runtimeconfig.json" />
+    <file src="C:\Users\shahe\source\repos\RelationalDBSolution\SQLServerUI\bin\Debug\net6.0\SQLServerUI.dll" target="lib\net6.0\SQLServerUI.dll" />
+  </files>
+</package>

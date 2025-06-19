@@ -1,0 +1,12 @@
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\bin\Debug\net6.0\DataAccessClassLibrary.deps.json
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\bin\Debug\net6.0\DataAccessClassLibrary.dll
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\bin\Debug\net6.0\DataAccessClassLibrary.pdb
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.csproj.AssemblyReference.cache
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.AssemblyInfoInputs.cache
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.AssemblyInfo.cs
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.dll
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\refint\DataAccessClassLibrary.dll
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\DataAccessClassLibrary.pdb
+C:\Users\shahe\source\repos\RelationalDBSolution\DataAccessClassLibrary\obj\Debug\net6.0\ref\DataAccessClassLibrary.dll

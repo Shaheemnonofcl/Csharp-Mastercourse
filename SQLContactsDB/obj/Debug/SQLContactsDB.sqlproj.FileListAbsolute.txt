@@ -1,0 +1,10 @@
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dacpac
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dll
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.pdb
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.sqlproj.AssemblyReference.cache
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\Model.xml
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\refactor.xml
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\postdeploy.sql
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\predeploy.sql
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.dll
+C:\Users\shahe\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.pdb
