@@ -1,4 +1,5 @@
 ﻿using Dapper;
+using DataAccessClassLibrary.Models;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -13,6 +14,14 @@ public class SqlDataAccess
         {
             List<T> rows = connection.Query<T>(sqlStatement, parameters).ToList();
             return rows;
+        }
+    }
+
+    public void SaveData<T>(string sql, T parameters, string connectionString)
+    {
+        using(IDbConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Execute(sql, parameters);
         }
     }
 }
